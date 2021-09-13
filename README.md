@@ -11,3 +11,4 @@ Project for the Foundations course of The Odin Project - September, 2021
 - Troubleshooting Git and connecting to Github in the terminal
 - Program file management and organization
 - Relative links to other files and directories
+- Adding a CSS rule to two selectors at once
